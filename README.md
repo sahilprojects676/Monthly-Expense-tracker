@@ -75,11 +75,6 @@ Open **index.html** in your preferred web browser.
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your dashboard here to showcase the application's interface.
-
----
 
 ## 🚀 Future Enhancements
 
